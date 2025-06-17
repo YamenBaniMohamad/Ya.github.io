@@ -139,7 +139,7 @@ header .container nav ul .search::before {
 .landing {
     top: 0;
     position: absolute;
-    background-image: url(imgs/landing.jpg);
+    background-image: url(landing.jpg);
     z-index: -1;
     height: 100vb;
     width: 100%;
